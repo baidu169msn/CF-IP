@@ -4,9 +4,6 @@ sources:
   - name: YD-V4
     url: https://raw.githubusercontent.com/svip-s/cloudflare_ip/refs/heads/main/best_ips.txt
     kind: ip
-  - name: YD-V6
-    url: https://bestcf.pages.dev/vvhan/ipv6.txt
-    kind: ip
 
 template:
   uuid: "ade2ed4a-9040-4e1a-a086-3a44cb5d017b"
