@@ -60,4 +60,7 @@ output:
     US: "美国"
     DE: "德国"
     CN: "中国"
+    CU: "联通"
+    CT: "电信"
+    CMCC: "移动"
     OTHER: "其他"
