@@ -2,8 +2,14 @@
 # 地区别名 + 200 个历史节点池 + DE/CN 排除优化版
 
 sources:
-  - name: vvHan-V6
-    url: https://bestcf.pages.dev/vvhan/ipv6.txt
+  - name: MJZ-LT
+    url: https://cf.junzhen.qzz.io/best_ips.txt
+    kind: ip
+  - name: LZ-LT
+    url: https://raw.githubusercontent.com/love-ztm/cfip/refs/heads/main/ubest_ips.txt
+    kind: ip
+  - name: LZ-YD
+    url: https://raw.githubusercontent.com/svip-s/cloudflare_ip/refs/heads/main/best_ips.txt
     kind: ip
 
 template:
