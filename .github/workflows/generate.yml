@@ -3,9 +3,7 @@ name: Generate VLESS subscriptions
 on:
   workflow_dispatch:
   schedule:
-    # GitHub Actions 使用 UTC
-    # 每小时第 24 分钟尝试执行一次
-    - cron: ''
+    - cron: '8 */6 * * *'
 
 permissions:
   contents: read
